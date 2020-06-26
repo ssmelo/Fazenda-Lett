@@ -3,7 +3,7 @@ Teste de conhecimento para vaga de estágio na Lett. Desenvolvimento de um proje
 
 PARA TESTAR O CÓDIGO:
 
-Para testar o código é necessário utilizar uma IDE com o compilador para arquivos JAVA. Todos os arquivos de código estão dentro do diretório src/Fazenda. Depois de compilar e executar, as instruções serão apresentadas no console.
+Para testar o código é necessário utilizar uma IDE com o compilador para arquivos JAVA. Todos os arquivos de código estão dentro do diretório src/Fazenda. O programa deverá ser executado através do arquivo Fazenda.java no diretório src/fazenda. Depois de compilar e executar, as instruções serão apresentadas no console.
 
 SOBRE O PROJETO:
 
